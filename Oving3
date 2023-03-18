@@ -39,7 +39,7 @@ def wolfie_conditon(X, alpha, p_k):
 
     if (f(X + alpha*p_k) < f(X) + c_1*alpha*np.dot(grad_f(X),p_k)): 
         
-        wolfie = True
+     
         
     if (np.dot(p_k,grad_f(X+alpha*p_k)) > c_2*np.dot(p_k,grad_f(X))):
         
@@ -60,11 +60,11 @@ def newtons_method(X, alpha, switch):
 def main(X): 
 #    
     alpha = 2
-    
+#    
     switch = convex_condition(X)
     X_1 = newtons_method(X,alpha, switch)
 #
-    for i in range(1000):
+    for i in range(100000):
         switch = convex_condition(X_1)
 #        
         if (switch): 
@@ -73,24 +73,18 @@ def main(X):
         else: 
            curvatuve = wolfie_conditon(X_1, alpha, -H_f(X)@grad_f(X))   
 #   
-        if(all(curvatuve)):
+        #if(all(curvatuve)):
 #            
-           X_1 = newtons_method(X_1, alpha, switch)
+        X_1 = newtons_method(X_1, alpha, switch)
 #           
-           if(alpha < 2):
-              alpha = np.sqrt(2)*alpha
-#              
-        else:
-           if(alpha > 0.00001):
-            alpha = alpha*0.99
-#
-           else:
-               alpha = 1
-#               
-        print(curvatuve,alpha)
-#       
+        if(curvatuve[0]):
+            alpha = 2*alpha
+#          
+        elif(curvatuve[1]):
+            alpha = alpha/np.sqrt(2)
+#                  
     return X_1 
 #    
 print(main(np.array([1.1,1.1])))
-
+#
 #condition(2,2)
