@@ -84,8 +84,7 @@ def update_step_direvtion(grad_f, B_k, x_k):
     return B_k_1, x_k_1
 #
 #
-# This function should tkae in the following
-#
+# This function should take in the following
 #
 # 
 
