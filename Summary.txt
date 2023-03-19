@@ -1,0 +1,1569 @@
+current iteration 1
+current position: [-360008.   18010.] 
+current gard [-1.86636416e+19 -2.59211484e+13]
+Hessian: 
+ [[ 1.95303852e-12 -1.39233002e-06]
+ [-1.39233002e-06  1.00249989e+00]] 
+
+current iteration 2
+current position: [9.97510800e+00 1.79326304e+04] 
+current gard [-71154931.81608559   3566625.5324924 ]
+Hessian: 
+ [[ 1.95303905e-12 -1.39233021e-06]
+ [-1.39233021e-06  1.00249989e+00]] 
+
+current iteration 3
+current position: [ 1.49411674e+01 -3.55770814e+06] 
+current gard [ 2.12638594e+10 -7.11586276e+08]
+Hessian: 
+ [[ 2.89321126e-14 -6.94318958e-09]
+ [-6.94318958e-09  4.99961985e-03]] 
+
+current iteration 4
+current position: [  9.99987382 100.36460698] 
+current gard [-1450.50429243    73.42612852]
+Hessian: 
+ [[ 2.89321116e-14 -6.94318886e-09]
+ [-6.94318886e-09  4.99961933e-03]] 
+
+current iteration 5
+current position: [ 9.99987433 99.99749422] 
+current gard [1.79690166e+01 1.53662070e-03]
+Hessian: 
+ [[ 2.89322970e-14 -6.94332708e-09]
+ [-6.94332708e-09  4.99972226e-03]] 
+
+current iteration 6
+current position: [ 9.99987433 99.99748666] 
+current gard [1.79992487e+01 2.49977120e-05]
+Hessian: 
+ [[ 2.83154430e-14 -6.71365760e-09]
+ [-6.71365760e-09  4.99973145e-03]] 
+
+current iteration 7
+current position: [ 9.99987433 99.99748666] 
+current gard [1.79992652e+01 2.41708648e-05]
+Hessian: 
+ [[6.95037032e-11 4.14804549e-07]
+ [4.14804549e-07 5.01654161e-03]] 
+
+current iteration 8
+current position: [ 9.99987432 99.99747907] 
+current gard [ 1.80295137e+01 -1.48827129e-03]
+Hessian: 
+ [[2.09699274e-10 8.37972450e-07]
+ [8.37972450e-07 5.03343459e-03]] 
+
+current iteration 9
+current position: [ 9.99987432 99.99747145] 
+current gard [ 1.80597791e+01 -3.00156075e-03]
+Hessian: 
+ [[7.72576789e-10 1.68971502e-06]
+ [1.68971502e-06 5.06727873e-03]] 
+
+current iteration 10
+current position: [ 9.99987431 99.99745615] 
+current gard [ 1.81202924e+01 -6.02726509e-03]
+Hessian: 
+ [[2.25287070e-09 2.98016974e-06]
+ [2.98016974e-06 5.11830415e-03]] 
+
+current iteration 11
+current position: [ 9.99987429 99.99743299] 
+current gard [ 1.82110711e+01 -1.05662589e-02]
+Hessian: 
+ [[6.48617460e-09 5.16616909e-06]
+ [5.16616909e-06 5.20404971e-03]] 
+
+current iteration 12
+current position: [ 9.99987423 99.9973939 ] 
+current gard [ 1.83623630e+01 -1.81309569e-02]
+Hessian: 
+ [[1.77812699e-08 8.75425157e-06]
+ [8.75425157e-06 5.34305319e-03]] 
+
+current iteration 13
+current position: [ 9.99987406 99.99733003] 
+current gard [18.60443347 -0.03023465]
+Hessian: 
+ [[4.80757075e-08 1.48236498e-05]
+ [1.48236498e-05 5.57370834e-03]] 
+
+current iteration 14
+current position: [ 9.99987361 99.99722276] 
+current gard [18.99779533 -0.04990304]
+Hessian: 
+ [[1.28170171e-07 2.52512166e-05]
+ [2.52512166e-05 5.95876808e-03]] 
+
+current iteration 15
+current position: [ 9.99987244 99.9970404 ] 
+current gard [19.6332262  -0.08167511]
+Hessian: 
+ [[3.39519442e-07 4.37673510e-05]
+ [4.37673510e-05 6.61486457e-03]] 
+
+current iteration 16
+current position: [ 9.99986935 99.99672138] 
+current gard [20.66201465 -0.13311554]
+Hessian: 
+ [[8.95127205e-07 7.79942062e-05]
+ [7.79942062e-05 7.76167834e-03]] 
+
+current iteration 17
+current position: [ 9.99986123 99.99614306] 
+current gard [22.32622046 -0.2163279 ]
+Hessian: 
+ [[2.35382381e-06 1.44571520e-04]
+ [1.44571520e-04 9.84125642e-03]] 
+
+current iteration 18
+current position: [ 9.99983996 99.99504426] 
+current gard [25.01916932 -0.35098009]
+Hessian: 
+ [[6.17893838e-06 2.81589938e-04]
+ [2.81589938e-04 1.37918636e-02]] 
+
+current iteration 19
+current position: [ 9.9997842  99.99283979] 
+current gard [29.37616019 -0.56884187]
+Hessian: 
+ [[1.62033557e-05 5.79988462e-04]
+ [5.79988462e-04 2.17178126e-02]] 
+
+current iteration 20
+current position: [ 9.99963813 99.98815595] 
+current gard [36.42546377 -0.92134272]
+Hessian: 
+ [[4.24608540e-05 1.26351497e-03]
+ [1.26351497e-03 3.85551795e-02]] 
+
+current iteration 21
+current position: [ 9.9992556  99.97765437] 
+current gard [47.82909964 -1.49164046]
+Hessian: 
+ [[0.0001112  0.00289426]
+ [0.00289426 0.07628758]] 
+
+current iteration 22
+current position: [ 9.99825429 99.95301832] 
+current gard [66.27008612 -2.41410031]
+Hessian: 
+ [[0.00029086 0.00690008]
+ [0.00690008 0.16464719]] 
+
+current iteration 23
+current position: [ 9.99563649 99.89322394] 
+current gard [96.05691245 -3.90498592]
+Hessian: 
+ [[0.00075775 0.01689525]
+ [0.01689525 0.37766159]] 
+
+current iteration 24
+current position: [ 9.98882469 99.74508167] 
+current gard [143.98495051  -6.30741379]
+Hessian: 
+ [[0.00194344 0.04160678]
+ [0.04160678 0.89171186]] 
+
+current iteration 25
+current position: [ 9.97142909 99.37872773] 
+current gard [220.0454439  -10.13408328]
+Hessian: 
+ [[0.00469509 0.09786739]
+ [0.09786739 2.0409905 ]] 
+
+current iteration 26
+current position: [ 9.93009309 98.52702163] 
+current gard [334.53957542 -15.9454391 ]
+Hessian: 
+ [[0.00941464 0.19259833]
+ [0.19259833 3.94109144]] 
+
+current iteration 27
+current position: [ 9.85158721 96.93769154] 
+current gard [475.12841472 -23.21581439]
+Hessian: 
+ [[0.01368609 0.27544896]
+ [0.27544896 5.54502049]] 
+
+current iteration 28
+current position: [ 9.74370914 94.79622929] 
+current gard [577.31650278 -28.7277194 ]
+Hessian: 
+ [[0.01627443 0.32129198]
+ [0.32129198 6.34511573]] 
+
+current iteration 29
+current position: [ 9.57819842 91.58977225] 
+current gard [599.94308178 -30.42256273]
+Hessian: 
+ [[0.01633384 0.31571633]
+ [0.31571633 6.10678127]] 
+
+current iteration 30
+current position: [ 9.38372197 87.96188089] 
+current gard [363.42898708 -18.47143086]
+Hessian: 
+ [[0.02343576 0.44752332]
+ [0.44752332 8.55297072]] 
+
+current iteration 31
+current position: [ 9.13288488 83.30454202] 
+current gard [400.00865747 -21.00885386]
+Hessian: 
+ [[0.0246106  0.45364327]
+ [0.45364327 8.37521373]] 
+
+current iteration 32
+current position: [ 8.81895542 77.79694963] 
+current gard [-65.40802986   4.59498528]
+Hessian: 
+ [[ 0.10087061  1.82132598]
+ [ 1.82132598 32.89225131]] 
+
+current iteration 33
+current position: [ 7.04773746 45.78688306] 
+current gard [10960.67190366  -776.74406037]
+Hessian: 
+ [[0.00097429 0.01601585]
+ [0.01601585 0.26698023]] 
+
+current iteration 34
+current position: [ 8.80908916 77.61774442] 
+current gard [-46.72376848   3.53850129]
+Hessian: 
+ [[0.00097027 0.01594485]
+ [0.01594485 0.26572694]] 
+
+current iteration 35
+current position: [ 8.79800293 77.42247262] 
+current gard [-46.40227652   3.52342929]
+Hessian: 
+ [[ -0.19754877  -3.47824331]
+ [ -3.47824331 -61.23640755]] 
+
+current iteration 36
+current position: [ 11.88663465 131.78621666] 
+current gard [45218.8784597  -1901.17331493]
+Hessian: 
+ [[0.00039608 0.0077914 ]
+ [0.0077914  0.15662142]] 
+
+current iteration 37
+current position: [ 8.78892971 77.23216697] 
+current gard [61.6965692 -2.6236818]
+Hessian: 
+ [[0.00039642 0.00779722]
+ [0.00779722 0.15672292]] 
+
+current iteration 38
+current position: [ 8.78492951 77.16229657] 
+current gard [60.16170219 -2.53797388]
+Hessian: 
+ [[ 0.13284883  2.33239919]
+ [ 2.33239919 40.95364914]] 
+
+current iteration 39
+current position: [ 6.71208592 40.78048248] 
+current gard [11480.00255048  -854.32297223]
+Hessian: 
+ [[0.00083204 0.01358862]
+ [0.01358862 0.22489446]] 
+
+current iteration 40
+current position: [ 8.76936025 76.91555814] 
+current gard [-33.14482661   2.7757753 ]
+Hessian: 
+ [[0.00082888 0.01353441]
+ [0.01353441 0.22396342]] 
+
+current iteration 41
+current position: [ 8.75926495 76.74248178] 
+current gard [-46.70467519   3.55185084]
+Hessian: 
+ [[ 0.07233739  1.25089472]
+ [ 1.25089472 21.6330316 ]] 
+
+current iteration 42
+current position: [ 7.69476794 58.32781212] 
+current gard [2727.00012104 -176.32829267]
+Hessian: 
+ [[0.00369606 0.06291016]
+ [0.06291016 1.07243008]] 
+
+current iteration 43
+current position: [ 8.70844094 75.8715686 ] 
+current gard [-105.19512456    6.92500571]
+Hessian: 
+ [[0.00355483 0.06047178]
+ [0.06047178 1.03033156]] 
+
+current iteration 44
+current position: [ 8.66362458 75.09785356] 
+current gard [-121.42876586    7.89254046]
+Hessian: 
+ [[ -0.08745265  -1.51363172]
+ [ -1.51363172 -26.19592678]] 
+
+current iteration 45
+current position: [ 9.99075698 98.05183388] 
+current gard [7065.02681518 -352.67824614]
+Hessian: 
+ [[0.00168792 0.02996098]
+ [0.02996098 0.53348536]] 
+
+current iteration 46
+current position: [ 8.6321188  74.52542298] 
+current gard [-25.9906177   2.3896135]
+Hessian: 
+ [[0.00172374 0.03059823]
+ [0.03059823 0.54481457]] 
+
+current iteration 47
+current position: [ 8.60380198 74.01879352] 
+current gard [37.97336805 -1.32300605]
+Hessian: 
+ [[0.01537653 0.27254632]
+ [0.27254632 4.83210785]] 
+
+current iteration 48
+current position: [ 8.38048388 70.06219989] 
+current gard [585.67363825 -34.062035  ]
+Hessian: 
+ [[0.00820675 0.1441142 ]
+ [0.1441142  2.5317789 ]] 
+
+current iteration 49
+current position: [ 8.48282788 71.89585056] 
+current gard [227.0984547  -12.50366045]
+Hessian: 
+ [[0.00497853 0.08755402]
+ [0.08755402 1.54131972]] 
+
+current iteration 50
+current position: [ 8.44695649 71.28460738] 
+current gard [239.47004816 -13.29331668]
+Hessian: 
+ [[ 0.03471146  0.58925327]
+ [ 0.58925327 10.0059302 ]] 
+
+current iteration 51
+current position: [ 7.96773079 63.18809687] 
+current gard [959.34498154 -59.32740107]
+Hessian: 
+ [[0.01026683 0.17096164]
+ [0.17096164 2.84935637]] 
+
+current iteration 52
+current position: [ 8.26100434 68.22181114] 
+current gard [88.47941746 -4.47629645]
+Hessian: 
+ [[0.0073079  0.12137354]
+ [0.12137354 2.01880624]] 
+
+current iteration 53
+current position: [ 8.15770947 66.51952607] 
+current gard [107.95849559  -5.73954472]
+Hessian: 
+ [[ 0.07988899  1.31364421]
+ [ 1.31364421 21.60372114]] 
+
+current iteration 54
+current position: [ 7.07273381 48.69599668] 
+current gard [3767.9561923  -265.51336633]
+Hessian: 
+ [[0.00233542 0.03708072]
+ [0.03708072 0.59104829]] 
+
+current iteration 55
+current position: [ 8.1184077  65.90869559] 
+current gard [13.74341053  0.03038803]
+Hessian: 
+ [[0.00226808 0.03600366]
+ [0.03600366 0.57383419]] 
+
+current iteration 56
+current position: [ 8.08614241 65.39644487] 
+current gard [-20.58472327   2.14917116]
+Hessian: 
+ [[ 0.06856627  1.09566981]
+ [ 1.09566981 17.51007391]] 
+
+current iteration 57
+current position: [ 7.14277809 50.31835888] 
+current gard [2014.89193704 -140.18399809]
+Hessian: 
+ [[0.00449636 0.07092932]
+ [0.07092932 1.1202804 ]] 
+
+current iteration 58
+current position: [ 8.02625943 64.44883095] 
+current gard [-75.81106993   5.59809894]
+Hessian: 
+ [[0.00425162 0.06703393]
+ [0.06703393 1.05828156]] 
+
+current iteration 59
+current position: [ 7.97331639 63.60637981] 
+current gard [-90.04321535   6.52111637]
+Hessian: 
+ [[ -0.1102514   -1.75734165]
+ [ -1.75734165 -28.00943086]] 
+
+current iteration 60
+current position: [ 9.50575534 88.0224452 ] 
+current gard [8902.76098365 -467.38786962]
+Hessian: 
+ [[0.00122937 0.02009471]
+ [0.02009471 0.32979269]] 
+
+current iteration 61
+current position: [ 7.95297306 63.26515553] 
+current gard [-35.00471587   3.07499231]
+Hessian: 
+ [[0.00124508 0.02035324]
+ [0.02035324 0.33404385]] 
+
+current iteration 62
+current position: [ 7.93397065 62.95043274] 
+current gard [5.79905227 0.50850258]
+Hessian: 
+ [[0.01431033 0.23491921]
+ [0.23491921 3.85753028]] 
+
+current iteration 63
+current position: [ 7.73152728 59.62655986] 
+current gard [477.21305997 -29.99084066]
+Hessian: 
+ [[0.00806714 0.13132769]
+ [0.13132769 2.13885213]] 
+
+current iteration 64
+current position: [ 7.82040839 61.10124479] 
+current gard [193.64327942 -11.50850785]
+Hessian: 
+ [[0.0049485  0.08073261]
+ [0.08073261 1.31844901]] 
+
+current iteration 65
+current position: [ 7.79127595 60.64129823] 
+current gard [208.93370135 -12.53653129]
+Hessian: 
+ [[0.03422047 0.53732029]
+ [0.53732029 8.43930218]] 
+
+current iteration 66
+current position: [ 7.37759927 54.17655764] 
+current gard [757.63688586 -50.48266112]
+Hessian: 
+ [[0.0112726  0.17390408]
+ [0.17390408 2.68502908]] 
+
+current iteration 67
+current position: [ 7.61620438 57.9678266 ] 
+current gard [131.26108658  -7.74852353]
+Hessian: 
+ [[0.00755914 0.11638163]
+ [0.11638163 1.79458184]] 
+
+current iteration 68
+current position: [ 7.52576902 56.59680664] 
+current gard [134.6458451   -8.07853037]
+Hessian: 
+ [[ 0.05601781  0.84859497]
+ [ 0.84859497 12.8582459 ]] 
+
+current iteration 69
+current position: [ 6.83860343 46.21274999] 
+current gard [1526.41933776 -110.74937642]
+Hessian: 
+ [[0.00564253 0.08318122]
+ [0.08318122 1.22871759]] 
+
+current iteration 70
+current position: [ 7.4380081  55.32303325] 
+current gard [15.64666417 -0.18624932]
+Hessian: 
+ [[0.00508392 0.0748898 ]
+ [0.0748898  1.10571894]] 
+
+current iteration 71
+current position: [ 7.3724099  54.35719714] 
+current gard [-1.31978723  0.95386768]
+Hessian: 
+ [[  0.46652434   6.88496389]
+ [  6.88496389 101.61024596]] 
+
+current iteration 72
+current position: [  1.42077826 -33.47884485] 
+current gard [20174.4468278 -7099.4911401]
+Hessian: 
+ [[8.43073782e-05 1.07776310e-03]
+ [1.07776310e-03 1.54329396e-02]] 
+
+current iteration 73
+current position: [ 7.37149313 54.34389858] 
+current gard [-1.96350957  0.9975249 ]
+Hessian: 
+ [[8.42964851e-05 1.07760405e-03]
+ [1.07760405e-03 1.54306175e-02]] 
+
+current iteration 74
+current position: [ 7.37058371 54.33062204] 
+current gard [-2.34737098  1.02356469]
+Hessian: 
+ [[ 0.34048158  4.98423059]
+ [ 4.98423059 72.96438347]] 
+
+current iteration 75
+current position: [ 3.06813787 -8.65330596] 
+current gard [22176.68002165 -3613.35518578]
+Hessian: 
+ [[0.00015925 0.00216759]
+ [0.00216759 0.03072701]] 
+
+current iteration 76
+current position: [ 7.36873886 54.30425911] 
+current gard [-4.79040464  1.18934072]
+Hessian: 
+ [[0.00015919 0.00216672]
+ [0.00216672 0.03071441]] 
+
+current iteration 77
+current position: [ 7.36692449 54.27810867] 
+current gard [-6.51533907  1.30646025]
+Hessian: 
+ [[ 0.06252688  0.90540318]
+ [ 0.90540318 13.11148239]] 
+
+current iteration 78
+current position: [ 6.59143506 43.04748679] 
+current gard [1064.57163379  -79.90587436]
+Hessian: 
+ [[0.00800723 0.115154  ]
+ [0.115154   1.65702127]] 
+
+current iteration 79
+current position: [ 7.26865016 52.86354357] 
+current gard [-75.46694064   6.05368528]
+Hessian: 
+ [[0.00709478 0.10197282]
+ [0.10197282 1.46660835]] 
+
+current iteration 80
+current position: [ 7.18676019 51.68073513] 
+current gard [-77.35496752   6.24262432]
+Hessian: 
+ [[ -0.09732366  -1.40595426]
+ [ -1.40595426 -20.30966094]] 
+
+current iteration 81
+current position: [ 8.43513618 69.70877253] 
+current gard [4882.78668269 -288.54995983]
+Hessian: 
+ [[0.00195051 0.02858432]
+ [0.02858432 0.4198011 ]] 
+
+current iteration 82
+current position: [ 7.1592009  51.27121392] 
+current gard [-36.5258314    3.41129086]
+Hessian: 
+ [[0.00199305 0.02921102]
+ [0.02921102 0.42903151]] 
+
+current iteration 83
+current position: [ 7.13235131 50.87461943] 
+current gard [0.32738221 0.83684327]
+Hessian: 
+ [[0.0273331  0.4017026 ]
+ [0.4017026  5.90442246]] 
+
+current iteration 84
+current position: [ 6.78724082 45.80203293] 
+current gard [729.94970581 -52.92100598]
+Hessian: 
+ [[0.00631319 0.09210477]
+ [0.09210477 1.34444152]] 
+
+current iteration 85
+current position: [ 7.05320723 49.71937913] 
+current gard [92.09835328 -5.67060745]
+Hessian: 
+ [[0.00512381 0.07479718]
+ [0.07479718 1.09262209]] 
+
+current iteration 86
+current position: [ 7.00545806 49.02651289] 
+current gard [151.92315185  -9.98594486]
+Hessian: 
+ [[0.01894604 0.27371957]
+ [0.27371957 3.95521433]] 
+
+current iteration 87
+current position: [ 6.86046421 46.93872533] 
+current gard [360.90159737 -25.44876399]
+Hessian: 
+ [[0.01155533 0.165546  ]
+ [0.165546   2.37235734]] 
+
+current iteration 88
+current position: [ 6.90306979 47.56647299] 
+current gard [248.99428623 -17.17990357]
+Hessian: 
+ [[0.00609816 0.08768251]
+ [0.08768251 1.26257568]] 
+
+current iteration 89
+current position: [ 6.89103948 47.42495637] 
+current gard [181.21556668 -12.29375395]
+Hessian: 
+ [[0.01096308 0.14961333]
+ [0.14961333 2.04641369]] 
+
+current iteration 90
+current position: [ 6.74366847 45.47079796] 
+current gard [28.39079857 -1.25328386]
+Hessian: 
+ [[0.04146092 0.5605635 ]
+ [0.5605635  7.58245141]] 
+
+current iteration 91
+current position: [ 6.26910501 39.05891657] 
+current gard [619.29597781 -48.55220697]
+Hessian: 
+ [[0.01320823 0.17504358]
+ [0.17504358 2.32237929]] 
+
+current iteration 92
+current position: [ 6.58805566 43.41177141] 
+current gard [-13.31557124   1.85879445]
+Hessian: 
+ [[0.00961699 0.12701134]
+ [0.12701134 1.68022246]] 
+
+current iteration 93
+current position: [ 6.48002339 41.97981181] 
+current gard [39.19042446 -2.17826202]
+Hessian: 
+ [[ 0.15284169  2.01462065]
+ [ 2.01462065 26.55687964]] 
+
+current iteration 94
+current position: [ 4.87846438 20.87381577] 
+current gard [5716.72906228 -585.1197924 ]
+Hessian: 
+ [[0.00096605 0.01215623]
+ [0.01215623 0.1546012 ]] 
+
+current iteration 95
+current position: [ 6.46864275 41.84016592] 
+current gard [19.14766149 -0.63462896]
+Hessian: 
+ [[0.0009596  0.01207483]
+ [0.01207483 0.15357736]] 
+
+current iteration 96
+current position: [ 6.45793175 41.70642577] 
+current gard [6.92942256 0.30864688]
+Hessian: 
+ [[0.03188399 0.40163773]
+ [0.40163773 5.06062537]] 
+
+current iteration 97
+current position: [ 6.11302991 37.36136199] 
+current gard [29.23182254 -1.55452885]
+Hessian: 
+ [[ 0.29801527  3.75238764]
+ [ 3.75238764 47.24852972]] 
+
+current iteration 98
+current position: [3.23469529 1.121435  ] 
+current gard [12091.64409048 -1868.36372636]
+Hessian: 
+ [[0.00028464 0.00338107]
+ [0.00338107 0.04125959]] 
+
+current iteration 99
+current position: [ 6.10996525 37.32666638] 
+current gard [22.46183802 -1.00179846]
+Hessian: 
+ [[0.00028433 0.00337746]
+ [0.00337746 0.04121775]] 
+
+current iteration 100
+current position: [ 6.10696213 37.29209423] 
+current gard [17.27901502 -0.5784456 ]
+Hessian: 
+ [[0.01184553 0.13792314]
+ [0.13792314 1.60683708]] 
+
+current iteration 101
+current position: [ 5.9820641  35.83838606] 
+current gard [-117.56187853   10.65903044]
+Hessian: 
+ [[0.03806061 0.44558302]
+ [0.44558302 5.21728402]] 
+
+current iteration 102
+current position: [ 5.70705783 32.61077355] 
+current gard [-82.50249434   8.05288931]
+Hessian: 
+ [[-0.06122184 -0.71807073]
+ [-0.71807073 -8.42145681]] 
+
+current iteration 103
+current position: [ 6.4386476  41.18520691] 
+current gard [708.76483299 -54.19519606]
+Hessian: 
+ [[0.01265836 0.14915409]
+ [0.14915409 1.758228  ]] 
+
+current iteration 104
+current position: [ 5.55028268 30.75754274] 
+current gard [115.877224    -9.61902886]
+Hessian: 
+ [[0.01306727 0.15387273]
+ [0.15387273 1.81266298]] 
+
+current iteration 105
+current position: [ 5.51619014 30.36325598] 
+current gard [152.66875264 -13.01952696]
+Hessian: 
+ [[0.01582266 0.18121828]
+ [0.18121828 2.07663234]] 
+
+current iteration 106
+current position: [ 5.45994057 29.73365782] 
+current gard [177.72642771 -15.45864322]
+Hessian: 
+ [[0.02767022 0.30732477]
+ [0.30732477 3.41535272]] 
+
+current iteration 107
+current position: [ 5.29303592 27.9106437 ] 
+current gard [232.13337109 -21.11711525]
+Hessian: 
+ [[0.02427484 0.26290219]
+ [0.26290219 2.85001297]] 
+
+current iteration 108
+current position: [ 5.20977049 27.06632442] 
+current gard [165.51317049 -15.07682822]
+Hessian: 
+ [[0.03356618 0.35642677]
+ [0.35642677 3.79136017]] 
+
+current iteration 109
+current position: [ 5.02791134 25.23468559] 
+current gard [98.97420387 -9.04136679]
+Hessian: 
+ [[0.04994018 0.52044219]
+ [0.52044219 5.43422354]] 
+
+current iteration 110
+current position: [ 4.79063059 22.85714256] 
+current gard [185.79064864 -18.59978389]
+Hessian: 
+ [[0.04763594 0.45748826]
+ [0.45748826 4.40397682]] 
+
+current iteration 111
+current position: [ 4.44950137 19.77311898] 
+current gard [51.29332056 -4.98868459]
+Hessian: 
+ [[0.06579267 0.62506409]
+ [0.62506409 5.9499549 ]] 
+
+current iteration 112
+current position: [ 4.19302433 17.39395438] 
+current gard [320.86066503 -37.49973663]
+Hessian: 
+ [[0.02330592 0.20113134]
+ [0.20113134 1.74087282]] 
+
+current iteration 113
+current position: [ 4.25744426 18.14108991] 
+current gard [-19.46969304   3.05166433]
+Hessian: 
+ [[0.02097217 0.17759894]
+ [0.17759894 1.50893545]] 
+
+current iteration 114
+current position: [ 4.1237936  16.99412226] 
+current gard [25.30185979 -2.31028446]
+Hessian: 
+ [[ 0.20487038  1.73556592]
+ [ 1.73556592 14.70565121]] 
+
+current iteration 115
+current position: [2.94984301 7.05531429] 
+current gard [1946.38252892 -329.25190164]
+Hessian: 
+ [[0.00179695 0.0141494 ]
+ [0.0141494  0.11353998]] 
+
+current iteration 116
+current position: [ 4.11101668 16.89842581] 
+current gard [ 9.56406635 -0.40647281]
+Hessian: 
+ [[0.00177998 0.01401471]
+ [0.01401471 0.11247552]] 
+
+current iteration 117
+current position: [ 4.09968943 16.81010643] 
+current gard [1.84874207 0.53060565]
+Hessian: 
+ [[0.03895024 0.3086043 ]
+ [0.3086043  2.44660716]] 
+
+current iteration 118
+current position: [ 3.8639333  14.94139308] 
+current gard [-11.91102678   2.2825049 ]
+Hessian: 
+ [[ -1.57048947 -12.46951171]
+ [-12.46951171 -99.00473026]] 
+
+current iteration 119
+current position: [13.6195128  92.39548704] 
+current gard [507192.15288544 -18619.12835726]
+Hessian: 
+ [[3.19959137e-05 3.47604056e-04]
+ [3.47604056e-04 5.30851806e-03]] 
+
+current iteration 120
+current position: [ 3.863521   14.93341669] 
+current gard [-4.50693959  1.32443716]
+Hessian: 
+ [[3.19972194e-05 3.47622643e-04]
+ [3.47622643e-04 5.30873091e-03]] 
+
+current iteration 121
+current position: [ 3.8632048  14.92795232] 
+current gard [0.16189548 0.72019404]
+Hessian: 
+ [[8.59826516e-05 1.18765709e-03]
+ [1.18765709e-03 1.82200522e-02]] 
+
+current iteration 122
+current position: [ 3.86233554 14.91463807] 
+current gard [10.35599279 -0.59954937]
+Hessian: 
+ [[0.00012162 0.00159807]
+ [0.00159807 0.02243246]] 
+
+current iteration 123
+current position: [ 3.8620342  14.91153788] 
+current gard [11.54841001 -0.75405102]
+Hessian: 
+ [[0.00112571 0.01063848]
+ [0.01063848 0.10217173]] 
+
+current iteration 124
+current position: [ 3.85705596 14.86572305] 
+current gard [22.92833538 -2.23152369]
+Hessian: 
+ [[0.00300106 0.02648444]
+ [0.02648444 0.2349998 ]] 
+
+current iteration 125
+current position: [ 3.84734738 14.78288654] 
+current gard [35.23517127 -3.83907061]
+Hessian: 
+ [[0.00888109 0.07402999]
+ [0.07402999 0.61827833]] 
+
+current iteration 126
+current position: [ 3.81862705 14.54804141] 
+current gard [57.37370911 -6.77422204]
+Hessian: 
+ [[0.01893001 0.15256558]
+ [0.15256558 1.23074535]] 
+
+current iteration 127
+current position: [ 3.76605527 14.13213052] 
+current gard [ 82.4225975 -10.2083588]
+Hessian: 
+ [[0.0289119  0.22619449]
+ [0.22619449 1.77099275]] 
+
+current iteration 128
+current position: [ 3.69213562 13.56752294] 
+current gard [100.40878862 -12.8685031 ]
+Hessian: 
+ [[0.03473393 0.26263639]
+ [0.26263639 1.98802593]] 
+
+current iteration 129
+current position: [ 3.58428132 12.77943928] 
+current gard [102.13523926 -13.52665542]
+Hessian: 
+ [[0.03518758 0.25617767]
+ [0.25617767 1.86941793]] 
+
+current iteration 130
+current position: [ 3.45561625 11.90164385] 
+current gard [59.70324233 -7.92796507]
+Hessian: 
+ [[0.05088111 0.36264229]
+ [0.36264229 2.59164914]] 
+
+current iteration 131
+current position: [ 3.29286462 10.79722724] 
+current gard [64.81902697 -9.14603312]
+Hessian: 
+ [[0.05360313 0.35874328]
+ [0.35874328 2.41338728]] 
+
+current iteration 132
+current position: [3.09943948 9.61675719] 
+current gard [-8.48665019  2.04642311]
+Hessian: 
+ [[0.19465487 1.25762222]
+ [1.25762222 8.13140356]] 
+
+current iteration 133
+current position: [2.17778006 3.64946489] 
+current gard [ 954.70846015 -218.65222211]
+Hessian: 
+ [[0.00337583 0.01890924]
+ [0.01890924 0.10956377]] 
+
+current iteration 134
+current position: [3.08939267 9.55301943] 
+current gard [-6.53812815  1.7344693 ]
+Hessian: 
+ [[0.00334971 0.01874664]
+ [0.01874664 0.10855327]] 
+
+current iteration 135
+current position: [3.07877803 9.48730504] 
+current gard [-6.22512703  1.68616948]
+Hessian: 
+ [[ -0.70169189  -4.32746322]
+ [ -4.32746322 -26.68304678]] 
+
+current iteration 136
+current position: [ 6.00749332 27.54043579] 
+current gard [20554.53713647 -1709.90803216]
+Hessian: 
+ [[0.00044491 0.00363339]
+ [0.00363339 0.03309899]] 
+
+current iteration 137
+current position: [3.07542112 9.45411281] 
+current gard [ 9.19734272 -0.82045682]
+Hessian: 
+ [[0.00044501 0.00363395]
+ [0.00363395 0.03310211]] 
+
+current iteration 138
+current position: [3.07430975 9.44784898] 
+current gard [ 8.49130458 -0.7062862 ]
+Hessian: 
+ [[0.03866316 0.22936102]
+ [0.22936102 1.36351891]] 
+
+current iteration 139
+current position: [2.90800356 8.46330929] 
+current gard [-4.12235134  1.36491553]
+Hessian: 
+ [[ 0.57238758  3.40555618]
+ [ 3.40555618 20.26455149]] 
+
+current iteration 140
+current position: [ 0.61928976 -5.15719274] 
+current gard [ 1371.76119661 -1108.1425091 ]
+Hessian: 
+ [[0.00054535 0.0027391 ]
+ [0.0027391  0.01567289]] 
+
+current iteration 141
+current position: [2.90651305 8.45320866] 
+current gard [-2.45407241  1.07811291]
+Hessian: 
+ [[0.00054506 0.00273729]
+ [0.00273729 0.01566147]] 
+
+current iteration 142
+current position: [2.90489957 8.44304133] 
+current gard [-1.53502869  0.91996775]
+Hessian: 
+ [[0.0325052  0.19910302]
+ [0.19910302 1.22135699]] 
+
+current iteration 143
+current position: [2.77162762 7.62506114] 
+current gard [ 66.57955122 -11.37171087]
+Hessian: 
+ [[0.02326005 0.13973845]
+ [0.13973845 0.84091087]] 
+
+current iteration 144
+current position: [2.81204953 7.88393299] 
+current gard [30.27062773 -4.7379195 ]
+Hessian: 
+ [[0.01239367 0.07392799]
+ [0.07392799 0.44365542]] 
+
+current iteration 145
+current position: [2.78715012 7.74809006] 
+current gard [26.00050645 -4.02314287]
+Hessian: 
+ [[0.08912104 0.49757953]
+ [0.49757953 2.78252241]] 
+
+current iteration 146
+current position: [2.47179153 6.00525548] 
+current gard [106.2623908 -20.8995796]
+Hessian: 
+ [[0.03220855 0.17186552]
+ [0.17186552 0.92063776]] 
+
+current iteration 147
+current position: [2.64115102 6.98335679] 
+current gard [-4.82925733  1.53561067]
+Hessian: 
+ [[0.02357464 0.12428266]
+ [0.12428266 0.65900341]] 
+
+current iteration 148
+current position: [2.56414925 6.57157707] 
+current gard [ 6.4968771  -0.65686087]
+Hessian: 
+ [[0.31239282 1.64891755]
+ [1.64891755 8.70599287]] 
+
+current iteration 149
+current position: [1.61768094 1.57738843] 
+current gard [ 673.86915385 -207.90063639]
+Hessian: 
+ [[0.00279671 0.01357298]
+ [0.01357298 0.06780622]] 
+
+current iteration 150
+current position: [2.55489493 6.52793436] 
+current gard [2.65371529 0.08925505]
+Hessian: 
+ [[0.00277249 0.01345332]
+ [0.01345332 0.06721778]] 
+
+current iteration 151
+current position: [2.54633674 6.48623356] 
+current gard [0.6453934  0.48054918]
+Hessian: 
+ [[0.11284562 0.55731005]
+ [0.55731005 2.75382914]] 
+
+current iteration 152
+current position: [2.20569203 4.80319899] 
+current gard [ 57.00522827 -12.37567243]
+Hessian: 
+ [[0.05224193 0.25551763]
+ [0.25551763 1.25106478]] 
+
+current iteration 153
+current position: [2.38983136 5.72012601] 
+current gard [-5.66321944  1.76641798]
+Hessian: 
+ [[0.02949448 0.14372079]
+ [0.14372079 0.70171281]] 
+
+current iteration 154
+current position: [2.30299406 5.29453027] 
+current gard [11.12834358 -1.85027734]
+Hessian: 
+ [[0.11414666 0.55396931]
+ [0.55396931 2.68963943]] 
+
+current iteration 155
+current position: [2.05772762 4.10634833] 
+current gard [107.38437435 -25.57892456]
+Hessian: 
+ [[0.01498618 0.07112822]
+ [0.07112822 0.33860766]] 
+
+current iteration 156
+current position: [2.26782966 5.12950912] 
+current gard [14.82027997 -2.70845312]
+Hessian: 
+ [[0.01300761 0.06183257]
+ [0.06183257 0.29499334]] 
+
+current iteration 157
+current position: [2.2425238  5.01210873] 
+current gard [17.55864229 -3.360855  ]
+Hessian: 
+ [[0.09411663 0.43382967]
+ [0.43382967 2.00088815]] 
+
+current iteration 158
+current position: [2.04800218 4.11934373] 
+current gard [ 63.51083016 -14.99383802]
+Hessian: 
+ [[0.02906888 0.13154839]
+ [0.13154839 0.59638195]] 
+
+current iteration 159
+current position: [2.17422884 4.70665096] 
+current gard [20.28155872 -4.12401417]
+Hessian: 
+ [[0.02056476 0.09339858]
+ [0.09339858 0.42547697]] 
+
+current iteration 160
+current position: [2.14232058 4.56705527] 
+current gard [21.55028259 -4.49644222]
+Hessian: 
+ [[0.09046926 0.39387143]
+ [0.39387143 1.71659942]] 
+
+current iteration 161
+current position: [1.9637025 3.7976048] 
+current gard [ 47.8958762  -11.70454059]
+Hessian: 
+ [[0.04268053 0.1807775 ]
+ [0.1807775  0.76748967]] 
+
+current iteration 162
+current position: [2.03539867 4.122222  ] 
+current gard [18.86343383 -4.12514678]
+Hessian: 
+ [[0.02473731 0.10421422]
+ [0.10421422 0.44201563]] 
+
+current iteration 163
+current position: [1.99866706 3.97976331] 
+current gard [13.91476099 -2.98134369]
+Hessian: 
+ [[0.1002689  0.40170061]
+ [0.40170061 1.61341249]] 
+
+current iteration 164
+current position: [1.80105681 3.20033253] 
+current gard [32.92111506 -8.69461788]
+Hessian: 
+ [[0.0677802  0.26007236]
+ [0.26007236 1.00160747]] 
+
+current iteration 165
+current position: [1.83088689 3.34705471] 
+current gard [ 5.39100797 -1.01842287]
+Hessian: 
+ [[0.04968847 0.18209007]
+ [0.18209007 0.67216654]] 
+
+current iteration 166
+current position: [1.74846067 3.04995544] 
+current gard [ 6.50399692 -1.43185251]
+Hessian: 
+ [[0.22459918 0.80401259]
+ [0.80401259 2.88309373]] 
+
+current iteration 167
+current position: [1.43889574 1.94882502] 
+current gard [ 70.86333142 -24.31918386]
+Hessian: 
+ [[0.02722169 0.09007317]
+ [0.09007317 0.30139729]] 
+
+current iteration 168
+current position: [1.7003824  2.89567629] 
+current gard [-1.57556605  0.87519456]
+Hessian: 
+ [[0.02471798 0.08144793]
+ [0.08144793 0.27176101]] 
+
+current iteration 169
+current position: [1.66804443 2.78615913] 
+current gard [-1.19060709  0.75738269]
+Hessian: 
+ [[ 2.55851322  8.6346185 ]
+ [ 8.6346185  29.14384505]] 
+
+current iteration 170
+current position: [-1.82548217 -9.00644658] 
+current gard [-9015.37786547 -2467.7663442 ]
+Hessian: 
+ [[0.00026692 0.00044052]
+ [0.00044052 0.00316857]] 
+
+current iteration 171
+current position: [1.66802859 2.78428379] 
+current gard [0.02537279 0.39288427]
+Hessian: 
+ [[0.00026692 0.00044046]
+ [0.00044046 0.00316826]] 
+
+current iteration 172
+current position: [1.66784876 2.78302786] 
+current gard [0.46284153 0.26167121]
+Hessian: 
+ [[0.00112866 0.00513346]
+ [0.00513346 0.02668684]] 
+
+current iteration 173
+current position: [1.6659831 2.7736687] 
+current gard [ 2.55211641 -0.36619526]
+Hessian: 
+ [[0.00301645 0.01300892]
+ [0.01300892 0.05819448]] 
+
+current iteration 174
+current position: [1.66304857 2.76177897] 
+current gard [ 3.95475442 -0.79031285]
+Hessian: 
+ [[0.01343833 0.05136227]
+ [0.05136227 0.1978989 ]] 
+
+current iteration 175
+current position: [1.65049553 2.71505584] 
+current gard [ 7.29536692 -1.81593217]
+Hessian: 
+ [[0.03429976 0.12395949]
+ [0.12395949 0.44931268]] 
+
+current iteration 176
+current position: [1.62536821 2.62664719] 
+current gard [11.1164688  -3.03492229]
+Hessian: 
+ [[0.0648175  0.22379312]
+ [0.22379312 0.77403823]] 
+
+current iteration 177
+current position: [1.5840212  2.48800385] 
+current gard [14.54942845 -4.22386582]
+Hessian: 
+ [[0.08387197 0.27694846]
+ [0.27694846 0.91627249]] 
+
+current iteration 178
+current position: [1.53352515 2.32877403] 
+current gard [15.12969643 -4.58507189]
+Hessian: 
+ [[0.09189534 0.28742589]
+ [0.28742589 0.90257026]] 
+
+current iteration 179
+current position: [1.4610449  2.11845706] 
+current gard [10.38682223 -3.23902859]
+Hessian: 
+ [[0.10797296 0.32660309]
+ [0.32660309 0.99455971]] 
+
+current iteration 180
+current position: [1.39742575 1.9474961 ] 
+current gard [ 3.75885703 -1.06052345]
+Hessian: 
+ [[0.23233416 0.67765899]
+ [0.67765899 1.98325868]] 
+
+current iteration 181
+current position: [1.24278809 1.50356517] 
+current gard [20.84595619 -8.1914126 ]
+Hessian: 
+ [[0.07763064 0.20770482]
+ [0.20770482 0.55995875]] 
+
+current iteration 182
+current position: [1.32589911 1.76061276] 
+current gard [-0.72941953  0.5208608 ]
+Hessian: 
+ [[0.06219591 0.16356365]
+ [0.16356365 0.43455877]] 
+
+current iteration 183
+current position: [1.28607213 1.65357465] 
+current gard [ 0.78145415 -0.08137564]
+Hessian: 
+ [[0.51449274 1.35687657]
+ [1.35687657 3.58182774]] 
+
+current iteration 184
+current position: [0.99443635 0.88471135] 
+current gard [ 41.43391388 -20.83845858]
+Hessian: 
+ [[0.02796079 0.06881077]
+ [0.06881077 0.17180595]] 
+
+current iteration 185
+current position: [1.26982157 1.61378301] 
+current gard [-0.1390405   0.26723583]
+Hessian: 
+ [[0.02673596 0.06571108]
+ [0.06571108 0.16397828]] 
+
+current iteration 186
+current position: [1.2559786  1.57909864] 
+current gard [-0.30010639  0.32327923]
+Hessian: 
+ [[0.68918072 1.73366595]
+ [1.73366595 4.36358403]] 
+
+current iteration 187
+current position: [0.90234794 0.68872678] 
+current gard [ 45.10437783 -25.10100578]
+Hessian: 
+ [[0.02361534 0.05608311]
+ [0.05608311 0.1351777 ]] 
+
+current iteration 188
+current position: [1.24493521 1.5522294 ] 
+current gard [-0.68819587  0.47314361]
+Hessian: 
+ [[0.02302358 0.05462142]
+ [0.05462142 0.13156871]] 
+
+current iteration 189
+current position: [1.23493617 1.52756873] 
+current gard [-0.76575204  0.50027864]
+Hessian: 
+ [[0.95462371 2.35997251]
+ [2.35997251 5.83635932]] 
+
+current iteration 190
+current position: [0.78529738 0.41491658] 
+current gard [ 62.95207274 -40.35508027]
+Hessian: 
+ [[0.0146089  0.0337896 ]
+ [0.0337896  0.07993203]] 
+
+current iteration 191
+current position: [1.22921875 1.5134549 ] 
+current gard [-0.75906146  0.49523283]
+Hessian: 
+ [[0.01445695 0.03341444]
+ [0.03341444 0.07900576]] 
+
+current iteration 192
+current position: [1.22364454 1.49969226] 
+current gard [-0.72070726  0.47726129]
+Hessian: 
+ [[0.94541101 2.32783001]
+ [2.32783001 5.7337704 ]] 
+
+current iteration 193
+current position: [0.79402596 0.44086961] 
+current gard [ 59.80940301 -37.92152509]
+Hessian: 
+ [[0.01525375 0.03523365]
+ [0.03523365 0.08311511]] 
+
+current iteration 194
+current position: [1.21782237 1.48541779] 
+current gard [-0.69764692  0.46529432]
+Hessian: 
+ [[0.01508227 0.03481351]
+ [0.03481351 0.08208575]] 
+
+current iteration 195
+current position: [1.21214594 1.47151129] 
+current gard [-0.64895291  0.44270444]
+Hessian: 
+ [[0.877276   2.14231011]
+ [2.14231011 5.23350252]] 
+
+current iteration 196
+current position: [0.83304654 0.54487486] 
+current gard [ 49.34621908 -29.8183375 ]
+Hessian: 
+ [[0.0189704  0.0438692 ]
+ [0.0438692  0.10309904]] 
+
+current iteration 197
+current position: [1.20503574 1.45433793] 
+current gard [-0.66327444  0.44535854]
+Hessian: 
+ [[0.01867063 0.04314404]
+ [0.04314404 0.10134501]] 
+
+current iteration 198
+current position: [1.19820493 1.4378194 ] 
+current gard [-0.62175373  0.42487039]
+Hessian: 
+ [[0.86339065 2.08312597]
+ [2.08312597 5.02785159]] 
+
+current iteration 199
+current position: [0.84996274 0.59682549] 
+current gard [ 42.4058546  -25.12223591]
+Hessian: 
+ [[0.02210353 0.05085915]
+ [0.05085915 0.11857866]] 
+
+current iteration 200
+current position: [1.19033933 1.41906071] 
+current gard [-0.64443369  0.43059669]
+Hessian: 
+ [[0.02167833 0.04984319]
+ [0.04984319 0.11615147]] 
+
+current iteration 201
+current position: [1.18284726 1.4011669 ] 
+current gard [-0.59915827  0.40785181]
+Hessian: 
+ [[0.83895691 1.99940364]
+ [1.99940364 4.76668342]] 
+
+current iteration 202
+current position: [0.87005484 0.65502567] 
+current gard [ 35.22782144 -20.39395111]
+Hessian: 
+ [[0.02655365 0.0607702 ]
+ [0.0607702  0.14053368]] 
+
+current iteration 203
+current position: [1.17397187 1.38026095] 
+current gard [-0.6151861   0.41020141]
+Hessian: 
+ [[0.02590462 0.05923897]
+ [0.05923897 0.13692162]] 
+
+current iteration 204
+current position: [1.16560812 1.36053851] 
+current gard [-0.55287979  0.37924239]
+Hessian: 
+ [[0.79509508 1.87031741]
+ [1.87031741 4.40114194]] 
+
+current iteration 205
+current position: [0.89589647 0.72549959] 
+current gard [ 27.43231199 -15.42617925]
+Hessian: 
+ [[0.03380704 0.07692348]
+ [0.07692348 0.17637982]] 
+
+current iteration 206
+current position: [1.1551267  1.33617724] 
+current gard [-0.54894818  0.37190794]
+Hessian: 
+ [[0.03266218 0.07425956]
+ [0.07425956 0.17018224]] 
+
+current iteration 207
+current position: [1.14543882 1.31364977] 
+current gard [-0.45121486  0.32393371]
+Hessian: 
+ [[0.71818066 1.66502032]
+ [1.66502032 3.86156182]] 
+
+current iteration 208
+current position: [0.93013639 0.81404161] 
+current gard [ 18.87676086 -10.22241912]
+Hessian: 
+ [[0.0477504  0.10792556]
+ [0.10792556 0.24516445]] 
+
+current iteration 209
+current position: [1.13202379 1.28293035] 
+current gard [-0.39365811  0.29049994]
+Hessian: 
+ [[0.04514201 0.10195006]
+ [0.10195006 0.23147797]] 
+
+current iteration 210
+current position: [1.12017782 1.25581949] 
+current gard [-0.21719041  0.2042292 ]
+Hessian: 
+ [[0.5863481  1.33669276]
+ [1.33669276 3.04847241]] 
+
+current iteration 211
+current position: [0.9745353  0.92354925] 
+current gard [10.15043316 -5.23396254]
+Hessian: 
+ [[0.08015165 0.17958628]
+ [0.17958628 0.4034711 ]] 
+
+current iteration 212
+current position: [1.10090922 1.21242332] 
+current gard [0.01589394 0.08444134]
+Hessian: 
+ [[0.07117664 0.159393  ]
+ [0.159393   0.3580489 ]] 
+
+current iteration 213
+current position: [1.08631859 1.17965581] 
+current gard [ 0.36046653 -0.08645224]
+Hessian: 
+ [[0.39305345 0.87789183]
+ [0.87789183 1.96183475]] 
+
+current iteration 214
+current position: [1.02053169 1.0328102 ] 
+current gard [ 3.58219694 -1.73494542]
+Hessian: 
+ [[0.15724718 0.34722311]
+ [0.34722311 0.76767371]] 
+
+current iteration 215
+current position: [1.05965446 1.12086061] 
+current gard [ 0.96997994 -0.40139076]
+Hessian: 
+ [[0.11513116 0.25486046]
+ [0.25486046 0.5652571 ]] 
+
+current iteration 216
+current position: [1.05027817 1.10054006] 
+current gard [ 1.1693939  -0.50883546]
+Hessian: 
+ [[0.29411857 0.63314093]
+ [0.63314093 1.36421524]] 
+
+current iteration 217
+current position: [1.02850226 1.05431002] 
+current gard [ 1.49973979 -0.70137681]
+Hessian: 
+ [[0.28691224 0.60535668]
+ [0.60535668 1.27872344]] 
+
+current iteration 218
+current position: [1.02279169 1.04329949] 
+current gard [ 1.19248362 -0.56067147]
+Hessian: 
+ [[0.32662189 0.67265408]
+ [0.67265408 1.39061235]] 
+
+current iteration 219
+current position: [1.01043838 1.02084718] 
+current gard [ 0.07687389 -0.02770932]
+Hessian: 
+ [[0.40563875 0.82591462]
+ [0.82591462 1.6866978 ]] 
+
+current iteration 220
+current position: [1.00214089 1.00409316] 
+current gard [ 0.08172658 -0.03863968]
+Hessian: 
+ [[0.48401035 0.97400725]
+ [0.97400725 1.96522154]] 
+
+current iteration 221
+current position: [1.0002197  1.00042641] 
+current gard [ 0.00566014 -0.00260979]
+Hessian: 
+ [[0.51584025 1.03572205]
+ [1.03572205 2.08485076]] 
+
+current iteration 222
+current position: [1.000003  1.0000051] 
+current gard [ 0.00036112 -0.00017757]
+Hessian: 
+ [[0.5141091  1.03097459]
+ [1.03097459 2.07293461]] 
+
+current iteration 223
+current position: [1.0000004  1.00000088] 
+current gard [-2.61577652e-05  1.34832390e-05]
+Hessian: 
+ [[0.5282195  1.0572075 ]
+ [1.0572075  2.12097278]] 
+
+current iteration 224
+current position: [0.99999997 0.99999993] 
+current gard [ 2.94382746e-07 -1.80369120e-07]
+Hessian: 
+ [[0.50967285 1.0187266 ]
+ [1.0187266  2.0412547 ]] 
+
+the geometry has converged

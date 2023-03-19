@@ -22,88 +22,89 @@ def H_f(X):
     f_yy = -400*x
     f_xy =  200
     return LA.inv(np.array([[f_xx,f_xy],
-                          [f_xy,f_yy]]))
+                           [f_xy,f_yy]]))
     
 #
-# the step is defines as 
+#  The step is defines as 
+#
+#  
 #
 #  H(x_k+1 + x_k) = grad_f_k+1 - grad_f_k
 #
+
+def line_search(f, grad ,x, p):
 #
-
-def inv_initial_Hessian(X): 
-    
-    return  H_f(X)
-
-def next_step(grad_f, inv_Hessian): 
-    
-    return -inv_Hessian@grad_f
-
-def armijo_condition_checker(X, alpha, p_k):
-    
-    c_1 = 0.1
-    c_2 = 0.8
-    
-    wolfie = False
-    Curviturve = False
-
-    print(alpha)
-
-    if (f(X + alpha*p_k) < f(X) + c_1*alpha*np.dot(grad_f(X),p_k)): 
-        
-        alpha = alpha*1.1
-        wolfie = True
-        
-    if (np.dot(p_k,grad_f(X+alpha*p_k)) > c_2*np.dot(p_k,grad_f(X))):
-        
-        alpha = alpha/1.1
-        Curviturve
-
-    return alpha
-
-def update_step_direvtion(p_k, B_k, x_k, alpha): 
-       
+    a = 0.1
+    c1 = 1e-4 
+    c2 = 0.9 
+    x_new = x + a * p 
+    while (f(x_new) > f(x) + c1*a*p@grad(x) or p@grad(x_new) <= c2*p@grad(x)):
+        a *= 1.1
+        x_new = x + a * p
+    return a
+#
+#
+def update_step_direvtion(grad_f, B_k, x_k): 
+#  
+#   Update step derivation
+#   written by Jan Haakon melka Trabski 2023
+#   This function return the next step in the BFGS
+#  
+    alpha = 1
+#       
+    p_k = -B_k@grad_f(x_k)
+#
+#    This makes it worse?    
+#    alpha =  line_search(f, grad_f, x_k, p_k)                     
+#
+    print(grad_f(x_k).shape)
     s_k = alpha*p_k 
-    
+#   
+    print(s_k, "s:k")
+    print(p_k,"p_k")
+#
     x_k_1 = x_k + s_k
     y_k = grad_f(x_k_1) - grad_f(x_k)
-#    
-    print(x_k_1, s_k, y_k, p_k, grad_f(x_k_1), "\n")
-    print(B_k)
-#    
-    #else:
-    B_k_1 = B_k + (np.dot(s_k, np.transpose(y_k) + np.dot(np.transpose(y_k),B_k)@y_k)*(np.outer(s_k, np.transpose(s_k))))/np.dot(np.transpose(s_k),(y_k))**2 - (B_k@np.outer(y_k,s_k) + np.outer(s_k,y_k)@B_k)/(np.dot(np.transpose(s_k),y_k))
-#    
+#
+    print(y_k,"y_k")
+#
+    y_k = np.reshape(y_k,(2,1))
+    s_k = np.reshape(s_k,(2,1))
+#
+    r = 1/(y_k.T@s_k)
+    li = (np.eye(2)-(r*((s_k@(y_k.T)))))
+    ri = (np.eye(2)-(r*((y_k@(s_k.T)))))
+#
+    B_k_1 = li@B_k@ri + (r*((s_k@(s_k.T))))
+#
+    print(li, "li")
+    print(ri, "ri")
+    print(B_k_1,"B_K")
+#
     return B_k_1, x_k_1
 #
 #
-def main(): 
-    i = False
-    alpha = 0.1
-    x_k = [-1,-1]
+# This function should tkae in the following
+#
+#
+# 
+
+def main(grad_f, ): 
+    x_k = [10,10]
     iteratins = 0
 #
-    while LA.norm(grad_f(x_k)) > 0.1:
-        
-        print(alpha, "alpha")
+    B_k_1, x_k = update_step_direvtion(grad_f, np.eye(2), x_k) 
+    iteratins += 1
 #
-        if(i == False): 
-            p_k = next_step(grad_f(x_k), H_f(x_k))
-            alpha = armijo_condition_checker(x_k, alpha, p_k)            
-            B_k_1, x_k = update_step_direvtion(p_k, H_f(x_k), x_k, alpha) 
-            
-            i = True  
+    while LA.norm(grad_f(x_k)) > 1e-5:
 #
-        else:
-            p_k = next_step(grad_f(x_k), B_k_1)
-            alpha = armijo_condition_checker(x_k, alpha, p_k)            
-            B_k_1, x_k = update_step_direvtion(p_k, B_k_1, x_k, alpha)  
-            
+        B_k_1, x_k = update_step_direvtion(grad_f, B_k_1, x_k)  
+#            
         iteratins += 1
 #             
-    return x_k, alpha, iteratins
+    return x_k, iteratins
+#
 
-print(main())
     
     
         
